@@ -7,3 +7,5 @@
 5. PQueue
 6. Huffman
 7. Stanford 123
+
+https://www.youtube.com/watch?v=mUQZ1qmKlLY&t=0s

@@ -12,6 +12,7 @@ static inline void amax(T &x, U y)
         x = y;
 }
 
+// Driver program to find the Maximum and Minimum value
 int main()
 {
     int max_val = 0, min_val = 1e5;
