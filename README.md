@@ -1,4 +1,4 @@
-# C ++
+# C++
 
 1. Game of Life
 2. ADTs
@@ -6,4 +6,4 @@
 4. Recursion and ADTs
 5. PQueue
 6. Huffman
-7. 123
+7. Stanford 123
