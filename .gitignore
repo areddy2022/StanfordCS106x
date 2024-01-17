@@ -35,3 +35,11 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# User project generated files #
+################################
+CS106/CS106.pro.user
+CS106/Welcome/Welcome.app/
+build-CS106-Qt_6_6_1_for_macOS-Debug/
+build-CS106-Qt_6_6_1_for_macOS-Profile/
+build-CS106-Qt_6_6_1_for_macOS-Release/
