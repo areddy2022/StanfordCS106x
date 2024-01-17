@@ -1,5 +1,6 @@
 # C++
 [Set up Environment](https://web.stanford.edu/dept/cs_edu/resources/qt/install-mac)
+Make sure all files are stored inside of the CS106 folder because that is where the Qt project files exist.
 
 1. Game of Life
 2. ADTs
